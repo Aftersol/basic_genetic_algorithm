@@ -4,7 +4,7 @@
 
 This code calculates the best fitness of the equation below:
 
-$$\leftf(x,y)=(1-x)^2*exp(-x^2-(y+1)^2)-(x-x^3-y^3)*exp((-x^2-y^2))\right$$
+$$\left(f(x,y)=(1-x)^2*exp(-x^2-(y+1)^2)-(x-x^3-y^3)*exp((-x^2-y^2))\right)$$
 
 Where
 
