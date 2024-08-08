@@ -21,8 +21,8 @@ Change this variable to set the amount generations the genetic algorithm will ru
 
 You can adjust the fitness equation in the genetic_ai.ipynb provided to find the best fitness of different functions given the variables x and y
 
-Adjust the left and right limit to adjust range of the decoding function
-Increasing the range will decrease accuracy of the solution
+Adjust the left and right limits to adjust the range of the decoding function
+Increasing the range will decrease the accuracy of the solution
   left_limit = -2.0
   right_limit = 2.0
 
@@ -30,7 +30,7 @@ Adjust the crossover and mutation probability to change how fast each member mut
   crossover_prob = 0.7 # probabity of crossover
   mutation_prob = 0.01 # probabity of mutations
 
-## Requirement
+## Requirements
 - A Jupyter Notebook software such as Google Colab
 - Numpy
 - Deepcopy
